@@ -1,4 +1,4 @@
-**Survival analysis of random censoring with inverse Maxwell distribution: an application to guinea pigs data**
+**Title**: **Survival analysis of random censoring with inverse Maxwell distribution: an application to guinea pigs data**
 
 **Description**: This manuscript is accepted in Electronic Journal of Applied Statistical Analysis (EJASA), an international OPEN ACCESS and peer-reviewed journal.
 The manuscript is currently with journal's editing and will be online soon.
